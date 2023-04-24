@@ -18,7 +18,7 @@ saya sangat terbantu apabila ada yang ingin membuatkan UI nya (Desain ny saja ti
 
 Penambahan konten selain konten yang saya list di atas. sekedar masukan tanpa adanya kontribusi koding juga tidak apa apa
 
-Hubungi: (binsarjr121@gmail.com)[mailto:binsarjr121@gmail.com]
+Hubungi: binsarjr121@gmail.com
 
 
 
