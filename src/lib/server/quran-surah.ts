@@ -29,7 +29,6 @@ export const getRandomSurah = async () => {
 	} = await resp.json();
 	const info = await getChapterInfo(surahId);
 
-	console.log(json, 'json');
 	const text = `
 **${info.chapter.name_complex} (${info.chapter.name_arabic})**
 
