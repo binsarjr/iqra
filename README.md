@@ -1,4 +1,4 @@
-# IQRO
+# IQRA
 Tempat untuk mendalami wawasan tentang islam sedikit demi sedikit.
 
 Inspirasi dari wikipedia random picker.Daripada bingung harus belajar/mencari ilmu mulai dari mana, bagaimana dengan menyerahkan kepada takdir melalui website ini.
