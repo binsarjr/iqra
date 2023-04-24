@@ -1,9 +1,10 @@
 import { compile } from 'mdsvex'
+import { getRandomHadeethenc } from '../lib/server/hadeethenc.com'
 import { getRandomSurah } from '../lib/server/quran-surah'
 import type { PageServerLoad } from './$types'
 
 const getRandom = () => {
-	const lists = [getRandomSurah];
+	let lists = [getRandomHadeethenc,getRandomSurah];
 	return lists[Math.floor(Math.random() * lists.length)]();
 };
 
