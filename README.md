@@ -9,6 +9,7 @@ Buka minimal 1x setiap harinya kita akan mendapatkan informasi tambahan tentang 
 Konten yang di sediakan
 - [x] Infomrasi Surah
 - [ ] Tafsir surah per ayat
+- [ ] Sejarah Islam
 - [x] hadist
 
 
